@@ -1,4 +1,4 @@
-![header]![image](https://github.com/user-attachments/assets/eb906078-7b99-484b-93ac-eca5226e25d3)
+![header](https://github.com/user-attachments/assets/eb906078-7b99-484b-93ac-eca5226e25d3)
 
 **코드잇 8기 7팀 최종 프로젝트입니다!**
 
