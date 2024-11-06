@@ -114,7 +114,7 @@
 
 GitHub와 연동된 Vercel 계정을 통해 자동으로 배포되며, 코드를 push하면 자동으로 배포 프로세스가 진행됩니다.
 
-[**🚀 배포 사이트**](https://wedo-todolist.vercel.app/, "Wedo")
+[**🚀 배포 사이트 링크**](https://wedo-todolist.vercel.app/, "Wedo")
 
 
 
