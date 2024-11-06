@@ -1,6 +1,6 @@
 ![header](https://github.com/user-attachments/assets/eb906078-7b99-484b-93ac-eca5226e25d3)
 
-**코드잇 8기 7팀 최종 프로젝트입니다!**
+**코드잇 8기 7팀 최종 프로젝트 Wedo**
 
 ## 📑 목차
 > ***[프로젝트 소개](#프로젝트-소개)***
@@ -60,76 +60,64 @@
 
 ## ⚒ <a name="기술-스택"/>기술 스택
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![App Router](https://img.shields.io/badge/App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![App Router](https://img.shields.io/badge/App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![shadcnUI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![chartjs](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7)
+![react-hook-form](https://img.shields.io/badge/react_hook_form-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![github-actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ## 👨‍🏫 <a name="주요-기능"/>주요 기능
 
-|이미지1|이미지2|이미지3|
+|![wedo-git-dev-leehj322s-projects vercel app_login (1)](https://github.com/user-attachments/assets/21b9e606-0ccd-4c5f-97ce-787d59195096)|![wedo-git-dev-leehj322s-projects vercel app_login](https://github.com/user-attachments/assets/f037a671-92e4-46a7-9247-4941844df26f)|![wedo-git-dev-leehj322s-projects vercel app_login](https://github.com/user-attachments/assets/c6f9344e-4da0-456e-b6e8-b3f4f3367158)|
 |:---:|:---:|:---:|
-|**랜딩 페이지**|**팀 페이지**|**팀 추가 페이지**|
-
-|이미지1|이미지2|이미지3|
-|:---:|:---:|:---:|
-|**로그인 페이지**|**회원가입 페이지**|**계정 관리 페이지**|
-
-|이미지1|이미지2|이미지3|
-|:---:|:---:|:---:|
-|**자유게시판 페이지**|**할 일 목록 페이지**|**할 일 상세 페이지**|
+|**랜딩 페이지**|**회원가입 및 로그아웃 페이지**|**팀 추가 페이지**|
 
 ### 회원가입 및 로그인
+
+페이지에서 자체적으로 제공하는 로그인 방식 혹은 구글, 카카오 OAuth를 지원합니다. 랜딩 페이지 이외의 페이지는 로그인을 한 사용자들만 접속 가능합니다.
+비밀번호를 분실한 경우 이메일을 입력해 비밀번호를 재설정 이메일을 받을 수 있습니다.
 
 ### 계정 관리 페이지
 
+계정 관리 페이지로 프로필 이미지, 닉네임, 비밀번호 등을 변경하거나 회원 탈퇴가 가능합니다.
+
 ### 팀 페이지
 
-### 팀 추가 페이지
+팀 페이지에서 팀의 할 일 목록, 팀 리포트, 팀 멤버를 확인 할 수 있으며 팀 정보 수정, 할 일 목록 추가, 멤버 초대 등의 여러 동작을 수행할 수 있습니다.
+
+### 팀 생성 페이지
+
+새로운 팀을 생성 할 수 있습니다.
 
 ### 팀 참여 페이지
 
+팀 관리자가 보내준 링크를 입력해 접속한 이후 참여 수락 버튼을 누르면 해당 팀에 가입이 완료 됩니다.
+
 ### 자유게시판 페이지
+
+자유게시판 페이지에서 사람들이 자유롭게 작성한 게시글을 확인 할 수 있습니다. 좋아요, 최신순 정렬이나 검색을 지원합니다.
 
 ### 게시글 상세 페이지
 
+게시글 상세 페이지에서 댓글을 달거나 게시글을 수정, 작성 할 수 있습니다. 해당 게시글에 좋아요를 누를 수 도 있습니다.
+
 ### 할 일 목록 페이지
+
+팀 페이지의 할 일 목록을 눌러 이동하게 되면 할 일 목록 페이지에서 해당 할 일 목록의 할일들을 날짜별로 확인하고 등록할 수 있습니다.
 
 ### 할 일 상세 페이지
 
+할 일 목록 페이지의 할 일을 누르게 되면 해당 할 일의 상세 내용을 확인할 수 있습니다.
+
 ### 마이 히스토리 페이지
 
-### 
-
-### 회원가입 및 로그인
-
-페이지의 기초적인 기능으로 페이지에서 자체적으로 제공하는 페이지에서 회원가입 및 구글, 카카오로도 로그인을 할 수 있습니다. 와인 상세 페이지와 마이페이지는 로그인을 한 사용자들만 접속할 수 있습니다.
-
-### 와인 목록 조회
-
-사용자는 모든 와인의 목록을 확인할 수 있으며, 상단카드에서 달마다 평점이 높은 와인들을 추천받을수 있습니다.
-
-### 필터링 기능
-
-와인의 가격대와 평점 및 타입(레드, 화이트, 스파클링 등)으로 취향에 맞는 와인을 필터링할 수 있으며, 원하는 와인의 이름을 직접 검색할 수 있습니다.
-
-### 와인 추가
-
-사용자는 새로운 와인을 추가할 수 있으며, 이름, 가격, 원산지, 타입 등의 정보를 입력해야 합니다.
-
-### 와인 상세 정보
-
-각 와인의 이름, 가격, 평균 평점, 최신 리뷰 등의 정보를 제공합니다.
-
-### 와인 리뷰 작성
-
-사용자는 와인 상세에서 리뷰를 직접 작성할 수 있으며 별점, 와인의 맛 (바디감, 타닌, 당도, 산미 등), 향등의 정보를 남겨 공유할 수 있습니다.
-
-### 마이 페이지
-
-사용자가 작성했던 후기들이나 등록했던 와인들의 리스트들을 한 눈에 보기 쉽도록 정보들을 제공하며 수정할 수 있습니다. 또한 회원가입할때 생성한 닉네임을 변경할 수 있습니다.
+완료한 할 일 들을 날짜별로 확인할 수 있습니다.
 
 ## 🔫<a name="트러블-슈팅"/>트러블 슈팅
 
