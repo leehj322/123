@@ -9,11 +9,9 @@
 > 
 > ***[개발자 소개](#개발자-소개)***
 > 
-> ***[상세 계획](#상세-계획)***
+> ***[협업 관리](#협업-관리)***
 > 
 > ***[User Flow](#User-Flow)***
-> 
-> ***[프로젝트 구조](#프로젝트-구조)***
 > 
 > ***[개발 환경](#개발-환경)***
 > 
@@ -21,7 +19,7 @@
 > 
 > ***[주요 기능](#주요-기능)***
 >
-> ***[배포 및 실행 방법](#배포-및-실행-방법)***
+> ***[프로젝트 배포 링크](#프로젝트-배포-링크)***
 > 
   
 ## 🧑‍💻 <a name="프로젝트-소개"/>프로젝트 소개
@@ -62,22 +60,24 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![App Router](https://img.shields.io/badge/App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## 📖 <a name="라이브러리"/>주요 라이브러리
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 👨‍🏫 <a name="주요-기능"/>주요 기능
 
-|![randing](https://github.com/user-attachments/assets/c55c994a-b7a5-4a08-bb2d-4f2fa56f299d)|![list](https://github.com/user-attachments/assets/63d730c2-404b-4246-a00e-7bd739d403c1)|![wine](https://github.com/user-attachments/assets/3ca39b86-8a47-4d8f-95b7-bb840b10839d)|
+|이미지1|이미지2|이미지3|
 |:---:|:---:|:---:|
-|**랜딩 페이지**|**와인 목록 페이지**|**와인 상세 페이지**|
+|**랜딩 페이지**|**팀 페이지**|**팀 추가 페이지**|
 
-|![login](https://github.com/user-attachments/assets/19e0a399-16ed-42a5-8f90-fc156f6e8670)|![signup](https://github.com/user-attachments/assets/702b1d57-f0ec-4267-95e8-b28ce6b8f6ae)|![myprofile](https://github.com/user-attachments/assets/464653f8-7f9b-46f5-9cf1-1fbdcd4fb784)|
+|이미지1|이미지2|이미지3|
 |:---:|:---:|:---:|
-|**로그인 페이지**|**회원가입 페이지**|**마이 페이지**|
+|**로그인 페이지**|**회원가입 페이지**|**계정 관리 페이지**|
+
+|이미지1|이미지2|이미지3|
+|:---:|:---:|:---:|
+|**자유게시판 페이지**|**할 일 목록 페이지**|**할 일 상세 페이지**|
 
 ### 회원가입 및 로그인
 
