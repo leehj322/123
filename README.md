@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6A42DB&height=250&section=header&text=🍷%20WINE&fontSize=80&fontAlignY=40&fontColor=ffffff)
+![header]![image](https://github.com/user-attachments/assets/eb906078-7b99-484b-93ac-eca5226e25d3)
 
-**코드잇에서 주관하는 와인 관리 애플리케이션 프로젝트입니다.**
-
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/054fdb8a-3743-49a2-b714-87f3d40e4050">
+**코드잇 8기 7팀 최종 프로젝트입니다!**
 
 ## 📑 목차
 > ***[프로젝트 소개](#프로젝트-소개)***
