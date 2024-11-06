@@ -48,8 +48,8 @@
 [**📝 GitHub Project**](https://github.com/orgs/Codeit-FE08-Part4-Team7/projects/1, "협업 관리 깃허브 프로젝트 링크")
 
 ## 💡 <a name="User-Flow"/>User Flow
-![image](https://github.com/user-attachments/assets/f86c7d69-aa4b-4a4b-b0d5-bb580e4040a4)
 
+[**🌊 User Flow**](https://www.figma.com/board/AZmHeyXp7nf4KUCHlSvhGo/User-flow-(wedo)?node-id=0-1&node-type=canvas&t=tg72w03v9QvgzWhC-0, "유저플로우 피그마 링크")
 
 ## 💻 <a name="개발-환경"/>개발 환경
 
@@ -106,43 +106,13 @@
 사용자가 작성했던 후기들이나 등록했던 와인들의 리스트들을 한 눈에 보기 쉽도록 정보들을 제공하며 수정할 수 있습니다. 또한 회원가입할때 생성한 닉네임을 변경할 수 있습니다.
 
 
-## 🚀 <a name="배포-및-실행-방법"/>배포 및 실행 방법
+## 🚀 <a name="프로젝트-배포-링크"/>프로젝트 배포 링크
 
-### 1. 프로젝트 클론
-
-```git clone https://github.com/Codeit-FE08-Part3-Team6/wine.git cd wine```
-
-### 2. 의존성 설치
-프로젝트에서 사용하는 패키지들을 설치합니다.
-
-```npm install```
-
-### 3. 개발 서버 실행
-다음 명령어를 실행하여 로컬 개발 환경에서 프로젝트를 실행할 수 있습니다.
-
-```npm run dev```
-
-이후 브라우저에서 http://localhost:3000 으로 접속하여 개발 중인 웹 애플리케이션을 확인할 수 있습니다.
-
-### 4. 빌드 및 배포
-프로덕션 환경에서 사용하기 위해 빌드할 때는 아래 명령어를 사용합니다.
-
-```npm run build```
-
-
-그 후, 아래 명령어로 빌드된 파일을 실제로 실행합니다.
-
-
-```npm start```
-
-
-### 5. 배포
-이 프로젝트는 Vercel을 사용하여 배포할 수 있습니다. 
+이 프로젝트는 Vercel을 사용하여 배포되었습니다.
 
 GitHub와 연동된 Vercel 계정을 통해 자동으로 배포되며, 코드를 push하면 자동으로 배포 프로세스가 진행됩니다.
 
-
-[**🚀 배포 사이트**](https://wine-nine-xi.vercel.app/?pvs=4, "WINE")
+[**🚀 배포 사이트**](https://wedo-todolist.vercel.app/, "Wedo")
 
 
 
