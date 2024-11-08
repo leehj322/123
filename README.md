@@ -72,9 +72,21 @@
 
 ## 👨‍🏫 <a name="주요-기능"/>주요 기능
 
-|![wedo-git-dev-leehj322s-projects vercel app_login (1)](https://github.com/user-attachments/assets/21b9e606-0ccd-4c5f-97ce-787d59195096)|![wedo-git-dev-leehj322s-projects vercel app_login](https://github.com/user-attachments/assets/f037a671-92e4-46a7-9247-4941844df26f)|![wedo-git-dev-leehj322s-projects vercel app_login](https://github.com/user-attachments/assets/c6f9344e-4da0-456e-b6e8-b3f4f3367158)|
+|![wedo-todolist vercel app_](https://github.com/user-attachments/assets/6807b3a3-1fba-49b8-b48a-20b8cbde011e)|![wedo-todolist vercel app_ (1)](https://github.com/user-attachments/assets/4e8bbacd-9f78-4250-ae20-bad1d7e32a3e)|![wedo-todolist vercel app_ (2)](https://github.com/user-attachments/assets/283b8b95-0d77-4b08-8286-3895781de8a4)|
 |:---:|:---:|:---:|
 |**랜딩 페이지**|**회원가입 및 로그아웃 페이지**|**팀 추가 페이지**|
+
+|![wedo-todolist vercel app_](https://github.com/user-attachments/assets/72827f54-f921-4ae0-b4c0-8d9c7053923b)|![wedo-todolist vercel app_ (1)](https://github.com/user-attachments/assets/bd3f39f4-65e1-4bb2-a731-fa23af41c7a4)|![wedo-todolist vercel app_ (2)](https://github.com/user-attachments/assets/a314cc82-153e-4259-8222-2b0cfc79b3b6)|
+|:---:|:---:|:---:|
+|**팀 페이지**|**팀 생성 페이지**|**팀 참여 페이지**|
+
+|![wedo-todolist vercel app_](https://github.com/user-attachments/assets/f6825812-06e8-48e2-83ef-f89b5629d3e4)|![wedo-todolist vercel app_ (1)](https://github.com/user-attachments/assets/51401c12-72df-4ec7-88fd-3a52a93bd396)|![wedo-todolist vercel app_ (2)](https://github.com/user-attachments/assets/44261da4-74f9-4624-9078-23e8db13a05e)|
+|:---:|:---:|:---:|
+|**할 일 목록 페이지**|**할 일 상세 페이지**|**마이히스토리 페이지**|
+
+|![wedo-todolist vercel app_](https://github.com/user-attachments/assets/fe910fd7-c9ec-4896-89f8-582491ee4380)|![wedo-todolist vercel app_ (1)](https://github.com/user-attachments/assets/0fb3e033-0d71-499a-9dfd-1232684a20df)|
+|:---:|:---:|
+|**자유게시판 페이지**|**게시글 상세 페이지**|
 
 ### 회원가입 및 로그인
 
@@ -97,14 +109,6 @@
 
 팀 관리자가 보내준 링크를 입력해 접속한 이후 참여 수락 버튼을 누르면 해당 팀에 가입이 완료 됩니다.
 
-### 자유게시판 페이지
-
-자유게시판 페이지에서 사람들이 자유롭게 작성한 게시글을 확인 할 수 있습니다. 좋아요, 최신순 정렬이나 검색을 지원합니다.
-
-### 게시글 상세 페이지
-
-게시글 상세 페이지에서 댓글을 달거나 게시글을 수정, 작성 할 수 있습니다. 해당 게시글에 좋아요를 누를 수 도 있습니다.
-
 ### 할 일 목록 페이지
 
 팀 페이지의 할 일 목록을 눌러 이동하게 되면 할 일 목록 페이지에서 해당 할 일 목록의 할일들을 날짜별로 확인하고 등록할 수 있습니다.
@@ -116,6 +120,14 @@
 ### 마이 히스토리 페이지
 
 완료한 할 일 들을 날짜별로 확인할 수 있습니다.
+
+### 자유게시판 페이지
+
+자유게시판 페이지에서 사람들이 자유롭게 작성한 게시글을 확인 할 수 있습니다. 좋아요, 최신순 정렬이나 검색을 지원합니다.
+
+### 게시글 상세 페이지
+
+게시글 상세 페이지에서 댓글을 달거나 게시글을 수정, 작성 할 수 있습니다. 해당 게시글에 좋아요를 누를 수 도 있습니다.
 
 ## 🚀 <a name="프로젝트-배포-링크"/>프로젝트 배포 링크
 
